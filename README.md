@@ -4,7 +4,7 @@
 **Student Name:** Rohit Kumar Jain  
 **Student ID:** BITSoM_BA_25071652  
 **Email:** devsuman1957@gmail.com  
-**Date:** Jan-2026  
+**Date:** Jan-20-2026  
 
 </div>
 
@@ -54,7 +54,7 @@ sales-analytics-system/
 
 ---
 
-## 🧩 System Capabilities (10 Key Points)
+## 🧩 System Capabilities (Key Points)
 
 1. Reads **messy pipe-delimited sales files** with multiple encoding fallbacks  
 2. Cleans numeric fields by removing commas and formatting inconsistencies  
