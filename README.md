@@ -107,7 +107,7 @@ The program will:
 
 ---
 
-## Notes (Assignment Requirements)
+## Notes 
 
 - No hardcoded absolute file paths (paths are built relative to the project root)
 - Handles encoding issues by trying: `utf-8`, `latin-1`, `cp1252`
